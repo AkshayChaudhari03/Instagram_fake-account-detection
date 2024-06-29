@@ -39,7 +39,6 @@ To get started, follow these straightforward installation steps:
    ```
    python3 -m venv venv
    source venv/Scripts/activate  (for Windows)
-   source venv/bin/activate  (for MacOS/Linux)
    ```
 
 3. Install necessary Python packages specified in `requirements.txt`:
